@@ -1,0 +1,14 @@
+{
+  "name": "mochatrial",
+  "version": "1.0.0",
+  "description": "Trial code for previewing mocha testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Aditya Inapurapu",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
